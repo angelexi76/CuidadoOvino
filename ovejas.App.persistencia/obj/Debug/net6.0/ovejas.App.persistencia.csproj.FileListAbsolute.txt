@@ -1,0 +1,17 @@
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.csproj.AssemblyReference.cache
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.AssemblyInfoInputs.cache
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.AssemblyInfo.cs
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.csproj.CoreCompileInputs.cache
+C:\ovejas\ovejas.App.persistencia\bin\Debug\net6.0\ovejas.App.persistencia.deps.json
+C:\ovejas\ovejas.App.persistencia\bin\Debug\net6.0\ovejas.App.persistencia.runtimeconfig.json
+C:\ovejas\ovejas.App.persistencia\bin\Debug\net6.0\ovejas.App.persistencia.dll
+C:\ovejas\ovejas.App.persistencia\bin\Debug\net6.0\ovejas.App.persistencia.pdb
+C:\ovejas\ovejas.App.persistencia\bin\Debug\net6.0\ovejas.App.dominio.dll
+C:\ovejas\ovejas.App.persistencia\bin\Debug\net6.0\ovejas.App.dominio.pdb
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.csproj.CopyComplete
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.dll
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\refint\ovejas.App.persistencia.dll
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.pdb
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ovejas.App.persistencia.genruntimeconfig.cache
+C:\ovejas\ovejas.App.persistencia\obj\Debug\net6.0\ref\ovejas.App.persistencia.dll

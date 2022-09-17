@@ -1,0 +1,12 @@
+C:\ovejas\ovejas.App.dominio\bin\Debug\net6.0\ovejas.App.dominio.deps.json
+C:\ovejas\ovejas.App.dominio\bin\Debug\net6.0\ovejas.App.dominio.dll
+C:\ovejas\ovejas.App.dominio\bin\Debug\net6.0\ovejas.App.dominio.pdb
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ovejas.App.dominio.csproj.AssemblyReference.cache
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ovejas.App.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ovejas.App.dominio.AssemblyInfoInputs.cache
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ovejas.App.dominio.AssemblyInfo.cs
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ovejas.App.dominio.csproj.CoreCompileInputs.cache
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ovejas.App.dominio.dll
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\refint\ovejas.App.dominio.dll
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ovejas.App.dominio.pdb
+C:\ovejas\ovejas.App.dominio\obj\Debug\net6.0\ref\ovejas.App.dominio.dll
